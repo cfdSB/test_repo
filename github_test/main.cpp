@@ -19,7 +19,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    int = 0;
+    int = 2;
     return 0;
 }
 
